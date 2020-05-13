@@ -1,0 +1,40 @@
+fileFormatVersion: 2
+guid: bb07d1f6d4469b14e87ab4c1a3b9e7a6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - player: {fileID: 1285456661796644, guid: 3f321213df62f204685a385accca0200, type: 3}
+  - ground: {fileID: 1628075426055100, guid: db824fd2a83f18e4fa69d9534f1ca5cf, type: 3}
+  - MotifObstacle1: {fileID: 835460931809190886, guid: a4a3363396c7df949b338dab2e448e73,
+      type: 3}
+  - MotifObstacle2: {fileID: 776063397382385956, guid: d5c5e2e75b53f0943a6d4fd504bcb3df,
+      type: 3}
+  - MotifObstacle3: {fileID: 1814954953028066, guid: b8829ccf854d6004c87d07a07784f66e,
+      type: 3}
+  - MotifObstacle4: {fileID: 1868058492266114, guid: 54e81a0ed01546841b7d3c4486c9c0ba,
+      type: 3}
+  - MotifObstacle5: {fileID: 1885174511167428, guid: 36a2adfc2d091d9429ed0b464d3024c0,
+      type: 3}
+  - MotifObstacle6: {fileID: 1446241994, guid: 0e17842bb6174ff45b8c11ce5fb77300, type: 3}
+  - MotifObstacle7: {fileID: 1696911996221668, guid: 043f5801b448ddf4890b85735ca625f4,
+      type: 3}
+  - MotifObstacle8: {fileID: 1706524288612002, guid: dae442d40ba7a7c4fbd0fce82a1f06f8,
+      type: 3}
+  - MotifObstacle9: {fileID: 1001246499169952, guid: 52aded172c599d34797ab6b58863e264,
+      type: 3}
+  - MotifObstacle10: {fileID: 1133523856020402, guid: 0865940977aced248843b6cd66ea8737,
+      type: 3}
+  - MotifObstacle11: {fileID: 1405234113636552, guid: 8355820519cb0eb4abd6ccf7c389de3b,
+      type: 3}
+  - MotifObstacle12: {fileID: 1074163410309730, guid: 8a2404d22fa848b49a7812d211284c2b,
+      type: 3}
+  - MotifObstacle13: {fileID: 1920246743083986, guid: 416b991e9be2d4a458418c927863fdec,
+      type: 3}
+  - MotifObstacle14: {fileID: 1354461896256852, guid: e251b836cc19e3b49a7c821c7876770b,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
